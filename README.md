@@ -1,5 +1,5 @@
 # ATIVIDADE-MYSQL
-- exercício 01 
+- exercício 01 e 02
 
 
 
