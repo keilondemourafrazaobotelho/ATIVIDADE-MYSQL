@@ -5,7 +5,8 @@
 # Atividade1_SQL
 
 ## Modelo Entidade-Relacionamento (MER) feito no DRAW.IO
-<img width="709" height="825" alt="image" src="https://github.com/user-attachments/assets/a8d71537-0016-48e0-90f6-3f15376ba8a9" />
+<img width="774" height="781" alt="image" src="https://github.com/user-attachments/assets/d7f65ece-f7ad-44b5-9992-90b3bc903347" />
+
 
 ### Para criar o Banco de Dados 
 ```SQL
