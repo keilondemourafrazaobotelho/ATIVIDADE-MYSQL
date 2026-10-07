@@ -1,4 +1,4 @@
-# ATIVIDADE-MYSQL
+# ATIVIDADES-MYSQL
 - exercício 01 e 02
 
 
