@@ -1,1 +1,2 @@
 # ATIVIDADE-MYSQL
+- exercício 01 | EMPRESA
